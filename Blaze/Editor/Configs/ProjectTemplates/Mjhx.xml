@@ -1,0 +1,12 @@
+<ProjectTemplate>
+	<Name>魔晶幻想</Name>
+	<Directories>
+		<Directory Path="{ProjectName}/Editor" Desc="Editor"/>
+		<Directory Path="{ProjectName}/Scripts" Desc="Scripts"/>
+		<Directory Path="{ProjectName}/Plugins" Desc="Plugin"/>
+		<Directory Path="{ProjectName}/Sounds/BGM" Desc="Background music"/>
+		<Directory Path="{ProjectName}/Sounds/SFX" Desc="Sound effects"/>
+		<Directory Path="{ProjectName}/Scenes" Desc="Scenes"/>
+    <Directory Path="{ProjectName}/StreamingAssets" Desc="Streaming assets"/>
+	</Directories>
+</ProjectTemplate>
